@@ -37,9 +37,9 @@
             label1.Font = new Font("Segoe UI", 15.75F, FontStyle.Regular, GraphicsUnit.Point);
             label1.Location = new Point(166, 77);
             label1.Name = "label1";
-            label1.Size = new Size(92, 30);
+            label1.Size = new Size(68, 30);
             label1.TabIndex = 0;
-            label1.Text = "Versão 8";
+            label1.Text = "Será ?";
             // 
             // Form1
             // 
